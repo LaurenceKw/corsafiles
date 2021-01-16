@@ -1,0 +1,32 @@
+Formula Hybrid 2020 - Version 3 - 16 October 2020
+
+• New interior sounds - real recordings
+• Weight increase 746kg
+• Wheel rotation limit standardised to 450 degrees for all 2020 RSS vehicles
+• Additional tyre compounds added 
+• Small decrease of aero efficiency in low and medium wing angles
+• Adjusted some setup range parameters, old setups might not work
+• New Custom Shader's Patch Tyre shaders added to 5 dry compounds
+• New Custom Shader's Patch Tyre compound added "Visual Wet" - requires Custom Shader's Patch
+• 3D Fixed small aero element right barge board 
+• New pit crew textures 
+
+
+------------------------
+
+Formula Hybrid 2020 - Version 2 - 07 April 2020
+
+Sounds
+-Rebalanced interior/exterior engine sounds 
+-New exterior driveby sounds 
+
+Visuals
+-Further car details modelled to the rear of the car
+-DRS indicator added to the digital display
+-Dual RPM light colours added
+-AC Showroom car placement update
+-F6 camera position update
+
+Other
+-Tyre short names renamed to S/M/H (Soft/Medium/Hard)
+-Minor driver animation update

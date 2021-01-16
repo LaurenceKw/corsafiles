@@ -1,0 +1,35 @@
+[
+  { "type": "color", "name": "Rims", "texture": "EXT_Rim_Color_TX.dds", "defaultColor": "#000000" },
+  { "type": "color", "name": "Rim_Details", "texture": "rim_detail_1.dds", "defaultColor": "#000000" },
+  { "type": "color", "name": "Calipers", "texture": "CAL.dds", "defaultColor": "#000000" },
+  { "type": "color", "name": "Metals", "texture": "Seamless_metals.dds", "defaultColor": "#000000" },
+  { "type": "color", "name": "Metals_1", "texture": "Seamless_metals_Blue.dds", "defaultColor": "#000000" },
+  { "type": "color", "name": "Plastics", "texture": "seamless_rubber.dds", "defaultColor": "#000000" },
+  { "type": "color", "name": "KneePad", "texture": "padding.dds", "defaultColor": "#000000" },
+  { "type": "color", "name": "Belt_A", "texture": "2018_BELT_MAT.dds", "defaultColor": "#000000" },
+  { "type": "color", "name": "Belt_LOD", "texture": "padding.dds", "defaultColor": "#000000" },
+  { 
+    "type": "pattern", 
+    "name": "Driver ", 
+    "texture": "CM_Num.dds",
+    "patterns": [ { 
+      "underlay": "./CM_Num.dds",
+      "flags": [
+        { "size": 200, "left": 512, "top": 433, "angle": 0, "aspectMultiplier": 1 }
+      ],
+      "labels": [
+        { "size": 138, "font": "ELEGANCE", "left": 512, "top": 126, "angle": 0, 
+          "horizontalAlignment": "center", "verticalAlignment": "center", "color": "#f3f", "weight": "777", "kerning": 0,
+          "role": "pilot" }
+      ],
+      "numbers": [
+        { "size": 400, "font": "Space Bd BT", "left": 512, "top": 777, "angle": 0, 
+          "horizontalAlignment": "center", "verticalAlignment": "center", "color": "#f3f3f3", "weight": "700", "kerning": -15 }   
+      ],
+    } ],
+    "enabled": true
+  },
+  "@guess"
+]
+
+
